@@ -1,9 +1,9 @@
 {
   "name": "nestjs-kafka",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
+  "description": "Base integration of KafkaJS in NestJS framework.",
+  "author": "Pedro Medina Márquez",
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "prebuild": "rimraf dist",
